@@ -7,4 +7,4 @@ chromadb
 streamlit
 pandas
 python-dotenv
-sqlite3
+sqlite3==3.46.1
