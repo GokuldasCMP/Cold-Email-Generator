@@ -7,4 +7,4 @@ chromadb
 streamlit
 pandas
 python-dotenv
-pysqlite3
+
